@@ -1,10 +1,10 @@
 # BIDS-TOOLS
 
-A container of tools for creating BIDS datasets. WIP
+A collection of tools for creating BIDS datasets in one container. WIP
 
 ## Env
 
-- Debian Buster
+- Debian Buster, with neurodebian remote enabled
 - Python 3.6
 - Matlab MCR R2018b
 
